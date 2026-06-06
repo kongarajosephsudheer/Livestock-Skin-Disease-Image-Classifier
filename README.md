@@ -7,7 +7,10 @@ Machine Learning Phase 2 Project - Livestock Skin Disease Image Classifier using
 To classify livestock skin diseases using CNN and MobileNetV2.
 
 ## Dataset
-Dog Skin Diseases Dataset (used for implementation)
+Livestock Skin Disease Dataset
+
+Dataset Link:
+https://www.kaggle.com/datasets/saurabhshahane/lumpy-skin-disease-dataset
 
 ## Models Used
 1. CNN
@@ -20,8 +23,8 @@ Dog Skin Diseases Dataset (used for implementation)
 - Kaggle
 
 ## Results
-- CNN Accuracy: ___%
-- MobileNetV2 Accuracy: ___%
+- CNN Accuracy: 66%
+- MobileNetV2 Accuracy: 87%
 
-## notebook link
+## Notebook link
 -- https://www.kaggle.com/code/josephsudheer0506/joseph-sudheer-dogs-skin-diseases-image-dataset
