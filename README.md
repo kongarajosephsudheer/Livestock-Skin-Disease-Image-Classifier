@@ -23,3 +23,5 @@ Dog Skin Diseases Dataset (used for implementation)
 - CNN Accuracy: ___%
 - MobileNetV2 Accuracy: ___%
 
+## notebook link
+-- https://www.kaggle.com/code/josephsudheer0506/joseph-sudheer-dogs-skin-diseases-image-dataset
